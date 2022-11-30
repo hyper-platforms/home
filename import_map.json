@@ -1,5 +1,0 @@
-{
-  "imports": {
-    "hap": "npm:@hyper-platforms/hap-nodejs"
-  }
-}

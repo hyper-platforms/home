@@ -8,7 +8,7 @@ import {
   Service,
   uuid,
   VoidCallback,
-} from "hap";
+} from "@hyper-platforms/hap-nodejs";
 
 const FAKE_FAN: Record<string, any> = {
   powerOn: false,
