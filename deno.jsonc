@@ -1,0 +1,5 @@
+{
+  "tasks": {
+    "dev": "deno run --unstable --import-map=import_map.json --allow-read --allow-write --allow-env --allow-net=0.0.0.0:0,0.0.0.0:5353 ./main.ts"
+  }
+}
